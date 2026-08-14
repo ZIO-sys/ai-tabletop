@@ -8,7 +8,7 @@ export default function Home() {
           AI × 桌游
         </span>
         <h1 className="text-5xl font-bold tracking-tight text-white sm:text-7xl">
-          AI桌游宇宙
+          AI桌游
         </h1>
         <p className="mt-6 text-lg leading-8 text-slate-300 sm:text-xl">
           和 AI 一起玩、一起改、一起创造桌游

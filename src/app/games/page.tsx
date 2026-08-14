@@ -20,6 +20,9 @@ export default function GamesPage() {
           <h1 className="mt-3 text-4xl font-bold tracking-tight text-white sm:text-5xl">
             游戏大厅
           </h1>
+          <p className="mt-4 max-w-2xl leading-7 text-slate-400">
+            选择一款桌游开始体验。更多 AI 对手与动态规则玩法正在路上。
+          </p>
         </header>
 
         <section
